@@ -67,7 +67,7 @@
 <a href = "linkedin.com/in/vaibhav-magar-1591371bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Vaibhav80238360"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iamvaiibhav/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "vaibhavmagar1901@gmail.com"> <img src="https://img.icons8.com/fluency/50/000000/gmail-new.png"/></a>
+<a href = "mailto: vaibhavmagar1901@gmail.com"> <img src="https://img.icons8.com/fluency/50/000000/gmail-new.png"/></a>
 
 </p>
 
