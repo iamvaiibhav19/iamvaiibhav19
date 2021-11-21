@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Website for NGO.**
+- 🔭 I’m currently doing intern **Navgurukul*
 
-- 🌱 I’m currently learning **Backend Web-developement.**
+- 🌱 I’m currently learning **Material UI**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
