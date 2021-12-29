@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vaibhav! </h1>
-<h3 align="center">I'm a passionate front-end web developer and an IT Engineering Student.</h3>
+<h3 align="center">I'm a passionate full stack web developer and an IT Engineering Student.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently doing front-end intern at **Navgurukul**
+- 🔭 I’m currently doing intern at **Navgurukul**
 
 - 🌱 I’m currently learning **Material UI**
 
