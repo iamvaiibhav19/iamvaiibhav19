@@ -5,7 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently doing intern at **Navgurukul**
+- 🔭 I’m have done Frontend Webdev Internship at **Navgurukul**
+
+- 🔭 I’m have done Frontend Webdev Internship at **Sofodel**
 
 - 🌱 I’m currently learning **Material UI**
 
