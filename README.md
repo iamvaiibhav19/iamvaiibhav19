@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as in Frontend Developement at **Navgurukul**
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **flutter & aws-amplify**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
