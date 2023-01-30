@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m doing Internship at **Navgurukul**
+- 🔭 I’m currently working as in Frontend Developement at **Navgurukul**
 
 - 🌱 I’m currently learning **Material UI**
 
