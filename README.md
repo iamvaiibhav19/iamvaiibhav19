@@ -5,15 +5,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as in Frontend Developement at **Navgurukul**
+- 🔭 I’m currently working as in Frontend Developer at **Navgurukul**
 
 - 🌱 I’m currently learning **flutter & aws-amplify**
 
-- 👯 I’m looking to collaborate on **MERN Projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **vaibhavmagar1901@gmail.com**
+- 📫 How to reach me : **vaibhavmagar1901@gmail.com**
 
 - ⚡ Fun fact **I am a fitness freak and go to gym very often.**
         
