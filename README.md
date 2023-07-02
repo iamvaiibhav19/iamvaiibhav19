@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as in Frontend Developer at **Navgurukul**
+- 🔭 I’m currently working as in Frontend Developer & Consultant at **Navgurukul**
 
 - 🌱 I’m currently learning **flutter & aws-amplify**
 
