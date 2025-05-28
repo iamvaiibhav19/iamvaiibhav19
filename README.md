@@ -20,7 +20,7 @@ I thrive at the intersection of **startup innovation** and **technical execution
 
 ## 🔧 Skills & Tooling
 
-- **Languages:** TypeScript, JavaScript, C++, Python, Go, Rust
+- **Languages:** TypeScript, JavaScript, C++
 - **Frontend:** React.js, Next.js, Redux, Material UI, Shadcn, Chart.js, ECharts
 - **Backend:** Node.js, Express.js, Fastify, Sequelize
 - **Database & Auth:** MongoDB, PostgreSQL, MySQL, Firebase
